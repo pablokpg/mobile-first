@@ -1,0 +1,7 @@
+.cabecalho__menu-hamburguet {
+width: 24px;
+height: 24px;
+background: url("../img/Menu.svg");
+display: inline-block;}
+.cabecalho{
+    background-color: aqua;}
