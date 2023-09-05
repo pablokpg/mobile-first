@@ -2,9 +2,9 @@
  @import url('style/reset.css');
     :root{
         --cor-de-fundo: #EBECEE;
-        --branco: #FFFFFF;
-        --amarelo:#FECD2F
-        --roxo:#994984
+        --branco:#FFFFFF;
+        --amarelo:#FECD2F;
+        --roxo:#994984;
     }
   body{
     background-color: var(--cor-de-fundo);
