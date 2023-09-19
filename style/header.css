@@ -32,23 +32,26 @@
         padding: 1em;
         background-color: var(--branco);}
 
-    .lista-menu__titulo{
-        color: var(--amarelo);
-        font-weight: 700;}
-        
+        .lista-menu__titulo{
+            color: var(--amarelo);
+            font-weight: 700;}
+            
     .lista-menu__link{
         color: var(--roxo);
         text-transform: uppercase;
         text-decoration: none;}
-
     .container__titulo{
-        display: none;}
+        display: none;
+    }
+   
 
     .container__botao{
-        display: none;}
+        display: none;
+    }
 
     .container__botao:checked~.lista-menu{
-        display: block;}
+        display: block;
+    }
 
     
     
