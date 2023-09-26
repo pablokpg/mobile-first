@@ -40,7 +40,8 @@
         color: var(--roxo);
         text-transform: uppercase;
         text-decoration: none;}
-    .container__titulo{
+    
+        .container__titulo{
         display: none;
     }
    
