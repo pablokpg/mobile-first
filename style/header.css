@@ -39,11 +39,11 @@
             
     .lista-menu__link{
         color: var(--roxo);
-        text-transform: uppercase;!
+        text-transform: uppercase;
         text-decoration: none;}
     
         .container__titulo{
-        display:;
+        display:none;
     }
    
 
@@ -65,7 +65,7 @@
 
  @media screen and (min-width:1024px) {
     .container__titulo{
-        font-family: var(fonte-secundaria);
+        font-family: var(--fonte-secundaria);
         font-size: 40px;
         font-weight: 400;
         display: block;
