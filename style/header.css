@@ -72,7 +72,7 @@
         display: block;
     }
     .container__titulo--negrito
-    {font-weight: 700;}}
+    {font-weight: 700;}
  
  .opçoes{
     display: flex;}
@@ -85,6 +85,22 @@
         text-decoration: none;
         color: var(--preto);
     }
+
+.container__imagem--transparente{
+    display: none}
+    
+.cabecalho__menu-hamburguer{
+    display: none;}
+
+.opçoes__botao{
+    display: none;}
+
+    .opçoes__botao:checked~.lista-menu{
+        display: block; 
+        width: auto;
+    }
+
+}
     
     
 
